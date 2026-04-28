@@ -1,0 +1,4 @@
+flask>=2.0.0
+requests>=2.25.0
+reportlab>=3.6.0
+socksipy-branch>=1.0.0
